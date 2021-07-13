@@ -1,11 +1,9 @@
-# spring-boot-simple
 
 
+## Car Factory Api
 
-##Car Factory Api
 
-
-#Api Documentation
+# Api Documentation
 
  [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
  
@@ -13,12 +11,12 @@
 
 
 
-#Methods
+# Methods
 
 GET - >  http://localhost:8080/api/cars/{carType}
 
 
-#Test
+# Test
 
 mvn -Dtest=ApplicationTests test
 
